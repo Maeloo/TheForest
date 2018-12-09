@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: viseur.png (128 x 256)
+# $TexturePacker:SmartUpdate:f06bdc57a7537ccba310eaf00c523a2d:90ef6943697a7f9333095a2464103f92:e32aa4c57271522e8899c4a5cd7fec34$
+#
+
+01;2;201;53;53;0.5;0.5
+02;57;201;53;53;0.5;0.5
+03;2;146;53;53;0.5;0.5
+04;57;146;53;53;0.5;0.5
+05;2;91;53;53;0.5;0.5
+06;57;91;53;53;0.5;0.5

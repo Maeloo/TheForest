@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: c61caa433d4a5b646ab3c33c1b63551e
+timeCreated: 1440036232
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mushroom_0
+    21300002: mushroom_1
+    21300004: mushroom_2
+    21300006: mushroom_3
+    21300008: mushroom_4
+    21300010: mushroom_5
+    21300012: mushroom_6
+    21300014: mushroom_7
+    21300016: mushroom_8
+    21300018: mushroom_9
+    21300020: mushroom_10
+    21300022: mushroom_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mushroom_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6950
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_1
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 6950
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_2
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 6950
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5708
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_4
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 5708
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_5
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 5708
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4466
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_7
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 4466
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_8
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 4466
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3224
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_10
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3224
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mushroom_11
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3224
+        width: 1311
+        height: 1240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

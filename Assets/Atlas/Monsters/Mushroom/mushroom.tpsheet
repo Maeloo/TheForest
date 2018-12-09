@@ -1,0 +1,22 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: mushroom.png (4096 x 8192)
+# $TexturePacker:SmartUpdate:d66ca0d89e2c3ef76bf5d5f0372bdcfa:97f6567cf6713846a3759e9d7c1ce425:a82ef0565ba30ed9d2f05f4b2c9a9a8b$
+#
+
+01;2;6950;1311;1240;0.5;0.5
+02;1315;6950;1311;1240;0.5;0.5
+03;2628;6950;1311;1240;0.5;0.5
+04;2;5708;1311;1240;0.5;0.5
+05;1315;5708;1311;1240;0.5;0.5
+06;2628;5708;1311;1240;0.5;0.5
+07;2;4466;1311;1240;0.5;0.5
+08;1315;4466;1311;1240;0.5;0.5
+09;2628;4466;1311;1240;0.5;0.5
+10;2;3224;1311;1240;0.5;0.5
+11;1315;3224;1311;1240;0.5;0.5
+12;2628;3224;1311;1240;0.5;0.5

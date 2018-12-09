@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: b89f529135da92d49984bb8b9cfaa02e
+timeCreated: 1440113786
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mauser_0
+    21300002: mauser_1
+    21300004: mauser_2
+    21300006: mauser_3
+    21300008: mauser_4
+    21300010: mauser_5
+    21300012: mauser_6
+    21300014: mauser_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mauser_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3207
+        width: 811
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mauser_1
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 3207
+        width: 811
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mauser_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2318
+        width: 811
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mauser_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2318
+        width: 811
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mauser_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1429
+        width: 811
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mauser_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1429
+        width: 811
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mauser_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 540
+        width: 811
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mauser_7
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 540
+        width: 811
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

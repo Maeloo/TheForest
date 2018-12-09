@@ -1,0 +1,18 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: mauser.png (2048 x 4096)
+# $TexturePacker:SmartUpdate:c91ac56a42f0cc287425d780f49f4efe:cf1c923907bce1bc7036a34cbce32751:d8820a6d1e3ef82c4364334692e400e2$
+#
+
+01;2;3207;811;887;0.5;0.5
+02;815;3207;811;887;0.5;0.5
+03;2;2318;811;887;0.5;0.5
+04;815;2318;811;887;0.5;0.5
+05;2;1429;811;887;0.5;0.5
+06;815;1429;811;887;0.5;0.5
+07;2;540;811;887;0.5;0.5
+08;815;540;811;887;0.5;0.5
